@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int num;
+    float num;
     printf("Digite um número:\n");
-    scanf("%d",&num);
+    scanf("%f",&num);
     if(num % 2 == 0){
         printf("O número digitado é Par");
     }
