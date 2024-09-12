@@ -39,6 +39,4 @@ int main(){
         printf("Final de placa inexistente\n");
     }
     return 0;
-
-
 }
